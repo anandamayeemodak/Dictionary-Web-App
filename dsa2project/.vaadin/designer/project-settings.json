@@ -1,0 +1,5 @@
+{
+  "flow.theme.component": "Lumo",
+  "flow.theme.component.palette": "light",
+  "flow.theme.application": "frontend/styles/shared-styles.js"
+}
